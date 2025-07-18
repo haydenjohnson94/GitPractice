@@ -1,0 +1,4 @@
+# Ignore large sequence files
+*.fa
+*.fastq
+*.fasta
